@@ -1,3 +1,21 @@
 body {
-  background-color: aliceblue;
+  background-color: rgb(169, 231, 179);
 }
+
+h1 {
+  border-style: double;
+  text-align: center;
+  font-weight: bolder;
+}
+
+.head{
+background-color: chartreuse;
+font-style: italic;
+}
+
+.tg-0lax {
+  background-color: forestgreen;
+  width: 20em;
+  max-width: 90%;
+}
+
